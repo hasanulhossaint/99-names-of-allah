@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo
 
-**[View the app on GitHub Pages →](https://github.com/hasanulhossaint/99-names-of-allah.git)**
+**[View the app on GitHub Pages →](https://hasanulhossaint.github.io/99-names-of-allah/)**
 
 ---
 
